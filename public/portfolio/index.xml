@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Cineclub FI UdeC</title>
+    <link>https://cineclub-fi-udec.netlify.app/portfolio/</link>
+    <description>Recent content in Portfolios on Cineclub FI UdeC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cineclub-fi-udec.netlify.app/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arrival</title>
+      <link>https://cineclub-fi-udec.netlify.app/portfolio/arrival/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cineclub-fi-udec.netlify.app/portfolio/arrival/</guid>
+      <description>Le damos espacio en nuestra programación a ese género que tanto amamos con la proyección de Arrival (La llegada) de Denis Villeneuve, una de las joyas más emocionantes y reflexivas del cine de ciencia ficción reciente.
+🎙️ Después de la función, conversaremos en un cineforo con Andrei Rodríguez y Javier Utreras, Académicos del Departamento de Matemática de la Universidad de Concepción y conductores del Programa Sin Pizarra de Radio UdeC.</description>
+    </item>
+    
+    <item>
+      <title>El niño</title>
+      <link>https://cineclub-fi-udec.netlify.app/portfolio/lenfant/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cineclub-fi-udec.netlify.app/portfolio/lenfant/</guid>
+      <description>Seguimos nuestro ciclo Amar, perder, arder con El Niño (L&amp;rsquo;Enfant), una obra maestra de los hermanos Dardenne que duele en lo más hondo. Los hermanos belgas filman el amor cuando ya es demasiado tarde y la redención como un susurro apenas audible entre el ruido del mundo.
+🎙️ Después de la función, conversaremos en un cineforo con Cristián Saldía, Jefe de Carrera de Dirección Audiovisual y Multimedia de la UCSC, cineasta y Director del Festival Frontera Sur.</description>
+    </item>
+    
+    <item>
+      <title>Afire</title>
+      <link>https://cineclub-fi-udec.netlify.app/portfolio/afire/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cineclub-fi-udec.netlify.app/portfolio/afire/</guid>
+      <description>Cerraremos nuestro ciclo Amar, perder, arder con Afire (El Cielo Rojo), una película fascinante de Christian Petzold, uno de los directores contemporáneos que más admiramos.
+Pronto entregaremos más información de este evento, incluido los detalles del cineforo, y en el futuro podrás conseguir tu entrada gratis en nuestro sitio de eventbrite.</description>
+    </item>
+    
+  </channel>
+</rss>
